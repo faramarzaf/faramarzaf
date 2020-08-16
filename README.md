@@ -1,5 +1,5 @@
-### Hi, I'm Faramarz 👋  💻
-
+### Hi, there 👋  💻
+I am Faramarz, Self motivated hard worker junior developer with enthusiasm of learning more about technologies that relates to Java and Android and always look for practical solutions and ambitious groups for employing my ideas.
 
 
 
