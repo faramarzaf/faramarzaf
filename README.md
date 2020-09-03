@@ -1,7 +1,5 @@
-### Hi, there 👋  💻
-
-
-
+👋  
+![s](https://en.bloggif.com/tmp/e7e39778d8e6a05d8d5337a48d3a61e3/text.gif?1599132023)
 
 <!--
 **faramarzaf/faramarzaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
