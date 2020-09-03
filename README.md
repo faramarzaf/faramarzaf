@@ -1,6 +1,6 @@
 👋
 <p align="left">
-<img src="https://raw.github.com/faramarzaf/faramarzaf/master/myname.gif" />
+<img src="https://raw.github.com/faramarzaf/faramarzaf/master/text.gif" />
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faramarzaf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
