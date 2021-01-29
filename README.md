@@ -6,6 +6,18 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faramarzaf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzaf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+🔭 I’m currently working on advance and trend Android topics
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/faramarzaf/count.svg" />
+</p>
 
 <!--
 **faramarzaf/faramarzaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
