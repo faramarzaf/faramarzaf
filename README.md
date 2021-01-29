@@ -10,6 +10,8 @@
 
 👀 **I'm looking to collaborate on projects with Android developers.**   
 
+📫 **How to reach me?**  [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/faramarz-afzali-93a210139/)  [![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/FaramarzAfzali)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
