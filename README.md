@@ -21,6 +21,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 
 
