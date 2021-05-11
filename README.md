@@ -6,7 +6,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=faramarzaf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faramarzaf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 **I’m currently working on advance and trend Android topics.**   
+🔭 **I’m currently working on Spring framework.**   
 
 👀 **I'm looking to collaborate on projects with Android developers.**   
 
