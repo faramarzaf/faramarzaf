@@ -25,16 +25,6 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 
-<p align="center"> 
-   Visitor count<br>
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/faramarzaf/count.svg" />
-</p>
-
 <!--
 **faramarzaf/faramarzaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
