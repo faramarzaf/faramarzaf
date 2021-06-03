@@ -25,6 +25,10 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 
 
+<p align="center"> 
+   Visitor count<br>
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+</p>
 
 <p align="center"> 
   Visitor count<br>
