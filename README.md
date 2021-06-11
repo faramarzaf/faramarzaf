@@ -8,7 +8,7 @@
 
 🔭 **I’m currently working on Spring framework.**   
 
-👀 **I'm looking to collaborate on projects with Android developers.**   
+👀 **I'm looking to collaborate on projects with Android and Java developers.**   
 
 📫 **How to reach me?**  [![Linkedin](https://img.shields.io/badge/-linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/faramarz-afzali-93a210139/)  [![Twitter](https://img.shields.io/badge/-twitter-grey?logo=twitter)](https://twitter.com/FaramarzAfzali)
 
